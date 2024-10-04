@@ -1,0 +1,7 @@
+###
+POST http://localhost:8080/image
+Content-Type: application/json
+
+{ "question" : "show me a full-figure picture about a blonde 18 years old girl in an elegant dress with mini skirt, she also wears an elegant rose-patterned black stockings and the whole stockings are visible in the picture, in the background there is a field and farther a forest and the daytime is sunset, make the image the most possible realistic" }
+
+
